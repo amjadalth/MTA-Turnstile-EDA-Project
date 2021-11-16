@@ -30,25 +30,3 @@ Feature Engineering
 
 **Tools** <br/>
 I used python, Jupyter nootbook and SQLite as technologies, where I use pandas, numpy, matplotlib, seaborn, and SQLAlchemy as libraries 
-
-
-**Communication** <br/>
-<img src ="Top stationns.png">
-
-The graph shows the top 5 busiest stations in each year by calculating Traffic, and we can see that 23 ST is the most busiest station for all years.
-
-<img src ="Least stationns.png">
-
-The graph shows the least 5 busiest stations in each year by calculating Traffic, and we can see that ORCHARD BEACH is the least busy station for all years.
-
-<img src ="Total traffic.png">
-
-     The graph shows the total traffic for each day, which proves that the Thursday is the most trafficed day.
-
-<img src ="heatmap.png">
-The graph shows the busiest days based on the top 5 busiest stations each year, proving that from Tuesday to Saturday, the stations are very crowded.
-
-
-```python
-
-```
