@@ -7,7 +7,7 @@ To start exploring the data, I first understand the data and clean the noisy, an
 
 
 
-<img src ="https://github.com/amjadalth/MTA-turnstile-project/blob/main/mvp.png" alt="drawing" width="600"/>
+<img src ="https://github.com/amjadalth/MTA-Turnstile-EDA-Project/blob/main/Images/barplot.png" alt="drawing" width="600"/>
 
 
 
